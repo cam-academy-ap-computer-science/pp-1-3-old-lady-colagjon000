@@ -1,4 +1,14 @@
-
+/***
+ * Grading comments:
+ *  Hard to find something that isn't perfect here.
+ *  Excellent work.
+ *  Compiles/Runs: 15/15
+ *  Desired output: 6/6
+ *  Efficiency: 2/2  Used nesting and got rid of
+ *   duplication within the sentence itself.
+ *  Consistency: 2/2
+ *   25/25
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
